@@ -76,13 +76,3 @@ pnpm build
 ```bash
 pnpm start
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to the Next.js team for their amazing framework
-- Special thanks to the Tailwind CSS community
-- Inspiration from modern wardrobe management solutions
