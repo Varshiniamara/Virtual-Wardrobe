@@ -8,8 +8,6 @@
 
 ## 🌟 Live Demo & Social Proof
 - **🚀 Live Deployment**: [virtual-wardrobe-vibecraft.vercel.app](https://virtual-wardrobe-vibecraft.vercel.app)
-- **🎥 Demo Video**: [Watch the 3-minute pitch](https://youtu.be/your-demo-video-id)
-- **🐦 Social Thread**: [Check out the X/Twitter Breakdown](https://twitter.com/your-post-id)
 
 ---
 
