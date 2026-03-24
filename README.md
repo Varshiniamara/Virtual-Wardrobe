@@ -1,8 +1,5 @@
 # 👗 Virtual Wardrobe — AI-Powered Digital Style Concierge
 
-> **Sustainable Fashion Meets Artificial Intelligence**
-> 
-> **Vibe Coding Hackathon 2026** — *Category: AI-Driven Utility & Design*
 
 ---
 
