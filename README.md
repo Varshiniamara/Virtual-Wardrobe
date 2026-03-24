@@ -128,7 +128,3 @@ Virtual-Wardrobe/
 └── styles/          # Design Tokens & Tailwind Config
 ```
 
----
-
-## 📜 License
-This project is licensed under the MIT License. Built for the **Vibe Coding Hackathon 2026**.
